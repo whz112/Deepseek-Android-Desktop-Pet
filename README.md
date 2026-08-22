@@ -4,7 +4,7 @@
 
 ![平台](https://img.shields.io/badge/platform-Android-brightgreen)
 ![语言](https://img.shields.io/badge/language-Kotlin-orange)
-![API](https://img.shields.io/badge/DeepSeek-API-blueviolet)
+![Python](https://img.shields.io/badge/language-Python-blue)
 ![许可证](https://img.shields.io/badge/license-MIT-blue)
 
 ---
