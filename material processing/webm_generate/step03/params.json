@@ -1,0 +1,38 @@
+{
+  "canvas": "1200x1200",
+  "target_height": 900,
+  "feet_y": 1100,
+  "fps": 24,
+  "videos": [
+    {
+      "file": "reading.webm",
+      "standing": {
+        "height": 553.9,
+        "max_y": 672.5,
+        "center_x": 427.9
+      },
+      "content_union": {
+        "x1": 0,
+        "y1": 40,
+        "x2": 693,
+        "y2": 675
+      },
+      "scale": 1.624842
+    },
+    {
+      "file": "searching.webm",
+      "standing": {
+        "height": 624.0,
+        "max_y": 679.0,
+        "center_x": 367.3
+      },
+      "content_union": {
+        "x1": 53,
+        "y1": 0,
+        "x2": 694,
+        "y2": 680
+      },
+      "scale": 1.442308
+    }
+  ]
+}
